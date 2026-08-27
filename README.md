@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/gaurav1064/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/gaurav1064/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/gaurav1064/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/gaurav1064/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gaurav1064/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gaurav1064/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gaurav1064/Leetcode/tree/master/0875-koko-eating-bananas) |
