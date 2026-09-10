@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gaurav1064/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/gaurav1064/Leetcode/tree/master/0049-group-anagrams) |
 | [0271-encode-and-decode-strings](https://github.com/gaurav1064/Leetcode/tree/master/0271-encode-and-decode-strings) |
 ## Design
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurav1064/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gaurav1064/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gaurav1064/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
